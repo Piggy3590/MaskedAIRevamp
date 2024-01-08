@@ -13,6 +13,7 @@ The current version is a **very very early** version, no optimization work has b
 
 <details>
   <summary>Behaviour (spoiler?):</summary>
+
 * Aggressive
     * If you have a dropped shotgun, pick it up and shoot people.
     * If there is a player with a shotgun, attack with a shovel type item.
