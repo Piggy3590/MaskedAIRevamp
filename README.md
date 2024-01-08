@@ -14,18 +14,18 @@ The current version is a **very very early** version, no optimization work has b
 <details>
   <summary>Behaviour (spoiler?):</summary>
 * Aggressive
- * If you have a dropped shotgun, pick it up and shoot people.
- * If there is a player with a shotgun, attack with a shovel type item.
+    * If you have a dropped shotgun, pick it up and shoot people.
+    * If there is a player with a shotgun, attack with a shovel type item.
 
 * Stealthy
- * No major features yet..
+    * No major features yet..
 
 * Cunning
- * Hiding items in bushes
- * Call a fake dropship using the terminal
+    * Hiding items in bushes
+    * Call a fake dropship using the terminal
 
 * Deceiving
- * Use terminal code
+    * Use terminal code
  </details>
 
 ## Mods
