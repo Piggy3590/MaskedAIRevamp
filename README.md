@@ -39,4 +39,4 @@ Recommended to install with this mod:
 
 + MaskedEnemyOverhaul mod by HomelessGinger.
 + Skinwalkers by RedbugRedfern.
-+ LC Masked Fix mode in kuba6000.
++ LCMaskedFix mod by kuba6000.
