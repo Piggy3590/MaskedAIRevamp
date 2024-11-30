@@ -1,7 +1,7 @@
 # MaskedAIRevamp
 
 ##Announcement
-This mod was canceled due to my lack of skills and maintenance difficulties in the past.
+This mod was canceled due to the complexity of the code and the difficulty of maintenance, which was caused by my lack of skills in the past.
 Instead, please use [LethalIntelligence](https://thunderstore.io/c/lethal-company/p/VirusTLNR/LethalIntelligenceExperimental/), a great mod developed by VirusTLNR based on this mod.
 
 ## Information
